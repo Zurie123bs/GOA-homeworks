@@ -1,0 +1,2 @@
+print("me gavicani Saba Nakashdze da is aris 14 wlis")
+print("me gavicani chemi razmis lideri Gio GagniZe da is aris 16 wlis")
